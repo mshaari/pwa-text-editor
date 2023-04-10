@@ -11,7 +11,9 @@
 * [Questions](#questions)
 
 ## Description
-J.A.T.E. — Just Another Text Editor — is a single-page Progressive Web Application (PWA) text editor that functions in the browser. It features data persistence techniques, functions offline, and can be downloaded as a PWA. It utilizes a number of technologies including IndexedDB, workbox, and webpack. Not only are assets pre-cached, but service workers are registered to cache assets and their code in the text editor is saved across sessions. 
+J.A.T.E. — Just Another Text Editor — is a single-page Progressive Web Application (PWA) text editor that functions in the browser. It features data persistence techniques, functions offline, and can be downloaded as a PWA. It utilizes a number of technologies including IndexedDB, workbox, and webpack. Not only are assets pre-cached, but service workers are registered to cache assets and their code in the text editor is saved across sessions. See the below screenshot to see what J.A.T.E. looks like in use. 
+
+![](Assets/Screenshot.png)
 
 ## Installation
 To install J.A.T.E., download [the repository](https://github.com/mshaari/pwa-text-editor) from GitHub by running
